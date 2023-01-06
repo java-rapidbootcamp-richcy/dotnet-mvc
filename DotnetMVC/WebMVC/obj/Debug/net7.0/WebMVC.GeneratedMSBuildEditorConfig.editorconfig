@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Kerja\RapidTech\java\dotnet-mvc\DotnetMVC\WebMVC
 build_property._RazorSourceGeneratorDebug = 
 
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Absent/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJzZW50XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
 [D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
@@ -42,6 +46,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Index.cshtml]
