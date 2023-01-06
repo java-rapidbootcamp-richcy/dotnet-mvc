@@ -1,0 +1,29 @@
+﻿@model RequestViewModel
+
+@{
+    ViewData["Title"] = "Request Details";
+}
+
+<h2>Request Detail</h2>
+<table class="table tab-content">
+    <tbody>
+        <tr>
+            <th>Id Request</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Id Asset</th>
+            <td>@Model.IdAsset</td>
+        </tr>
+
+        <tr>
+            <th>Id PIC</th>
+            <td>@Model.IdPic</td>
+        </tr>
+        <tr>
+            <th>Approval</th>
+            <td>@Model.Approval</td>
+        </tr>
+    </tbody>
+</table>
+

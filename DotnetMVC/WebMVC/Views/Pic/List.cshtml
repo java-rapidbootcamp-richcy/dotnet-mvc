@@ -1,0 +1,33 @@
+﻿@model List<PicViewModel>
+    @{
+    ViewData["Title"] = "PIC List";
+    }
+
+    <h2>PIC List</h2>
+    <table class="table table-responsive">
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>PIC Name</th>
+                <th>Action</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach(var item in Model )
+    {
+            <tr>
+                <td>@item.Id</td>
+                <td>@item.PicName</td>
+                <td>
+                    <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">Edit</a>
+                    <a asp-action="Details" asp-route-id="@item.Id" class="btn btn-sm btn-success">View</a>
+                    <a asp-action="Delete" asp-route-id="@item.Id" class="btn btn-sm btn-danger">Delete</a>
+                </td>
+
+            </tr>
+    }
+        </tbody>
+    </table>
+
+    <a asp-action="Add" class="btn btn-sm btn-primary">Add</a>
+

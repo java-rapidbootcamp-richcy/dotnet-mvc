@@ -9,149 +9,189 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = WebMVC
 build_property.RootNamespace = WebMVC
-build_property.ProjectDir = D:\Kerja\RapidTech\java\dotnet-mvc\DotnetMVC\WebMVC\
+build_property.ProjectDir = D:\Kerja\RapidTech\java\dotnet-mvc\DotnetMvc\WebMVC\
 build_property.RazorLangVersion = 7.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\Kerja\RapidTech\java\dotnet-mvc\DotnetMVC\WebMVC
+build_property.MSBuildProjectDirectory = D:\Kerja\RapidTech\java\dotnet-mvc\DotnetMvc\WebMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Add.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Asset/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Details.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Asset/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Edit.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Asset/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Index.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Asset/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/List.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Asset/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Add.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Audit/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Details.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Audit/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Edit.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Audit/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Index.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Audit/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/List.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Audit/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/AboutUs.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Home/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/ContactUs.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Home/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/Index.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/Privacy.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/Test.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Home/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxUZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Add.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Pic/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljXEFkZC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Pic/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Pic/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Pic/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Pic/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUGljXExpc3QuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Product/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxBZGQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Details.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Product/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxEZXRhaWxzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Edit.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Product/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxFZGl0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/Index.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Product/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Product/List.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Product/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvZHVjdFxMaXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Shared/Error.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Request/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxBZGQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Request/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Request/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Request/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Request/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVxdWVzdFxMaXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Test/AboutUs.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Test/AboutUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxBYm91dFVzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Test/ContactUs.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Test/ContactUs.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxDb250YWN0VXMuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Test/Index.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Test/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Test/Privacy.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Test/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Test/Test.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Test/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxUZXN0LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Add.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Users/Add.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWRkLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Details.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Users/Details.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Edit.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Users/Edit.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Index.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Users/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/List.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Users/List.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/_ViewImports.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/_ViewStart.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Shared/_Layout.cshtml]
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMvc/WebMVC/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-giswp39xn8
