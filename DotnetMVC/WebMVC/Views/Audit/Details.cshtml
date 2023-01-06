@@ -1,0 +1,41 @@
+﻿@model AuditViewModel
+
+@{
+    ViewData["Title"] = "Audit Details";
+}
+
+<h2>Audit Detail</h2>
+<table class="table tab-content">
+    <tbody>
+        <tr>
+            <th>Id Audit</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Id Asset</th>
+            <td>@Model.IdAsset</td>
+        </tr>
+
+        <tr>
+            <th>Condition Asset</th>
+            <td>@Model.ConditionAsset</td>
+        </tr>
+        <tr>
+            <th>Anti Virus</th>
+            <td>@Model.AntiVirus</td>
+        </tr>
+        <tr>
+            <th>Windows License</th>
+            <td>@Model.WindowsLicense</td>
+        </tr>
+        <tr>
+            <th>Office License</th>
+            <td>@Model.OfficeLicense</td>
+        </tr>
+        <tr>
+            <th>Validation</th>
+            <td>@Model.Validation</td>
+        </tr>
+    </tbody>
+</table>
+

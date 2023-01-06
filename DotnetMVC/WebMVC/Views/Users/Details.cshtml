@@ -1,0 +1,28 @@
+﻿@model UsersViewModel
+
+@{
+    ViewData["Title"] = "Users Details";
+}
+
+<h2>Users Detail</h2>
+<table class="table tab-content">
+    <tbody>
+        <tr>
+            <th>ID</th>
+            <td>@Model.Id</td>
+        </tr>
+        <tr>
+            <th>Send Date</th>
+            <td>@Model.SendDate</td>
+        </tr>
+        <tr>
+            <th>Id History</th>
+            <td>@Model.IdHistory</td>
+        </tr>
+        <tr>
+            <th>Id Audit</th>
+            <td>@Model.IdAudit</td>
+        </tr>
+    </tbody>
+</table>
+

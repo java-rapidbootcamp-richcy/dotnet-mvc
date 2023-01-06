@@ -16,8 +16,44 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = D:\Kerja\RapidTech\java\dotnet-mvc\DotnetMVC\WebMVC
 build_property._RazorSourceGeneratorDebug = 
 
-[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Absent/Index.cshtml]
-build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWJzZW50XEluZGV4LmNzaHRtbA==
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Asset/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXNzZXRcTGlzdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Audit/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQXVkaXRcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Home/AboutUs.cshtml]
@@ -86,6 +122,26 @@ build_metadata.AdditionalFiles.CssScope =
 
 [D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Test/Test.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVGVzdFxUZXN0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Add.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcQWRkLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/Users/List.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlcnNcTGlzdC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [D:/Kerja/RapidTech/java/dotnet-mvc/DotnetMVC/WebMVC/Views/_ViewImports.cshtml]

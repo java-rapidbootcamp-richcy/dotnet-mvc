@@ -55,7 +55,8 @@ namespace WebMVC.Controllers
 			ProductViewModel product = (from p in _productViewModels where p.Id.Equals(id) select p).SingleOrDefault(new ProductViewModel());
 			return View(product);
 		}
-		public IActionResult Delete(int? id)
+        [HttpDelete]
+        public IActionResult Delete(int? id)
 		{
             ProductViewModel product = _productViewModels.Find(x => x.Id.Equals(id));
             _productViewModels.Remove(product);
