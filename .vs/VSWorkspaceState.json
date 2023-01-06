@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DotnetMVC",
+    "\\DotnetMVC\\WebMVC",
+    "\\DotnetMVC\\WebMVC\\Controllers",
+    "\\DotnetMVC\\WebMVC\\Models",
+    "\\DotnetMVC\\WebMVC\\Views",
+    "\\DotnetMVC\\WebMVC\\Views\\Product",
+    "\\DotnetMVC\\WebMVC\\Views\\Shared"
+  ],
+  "SelectedNode": "\\DotnetMVC\\WebMVC\\Views\\Shared\\_Layout.cshtml",
+  "PreviewInSolutionExplorer": false
+}
